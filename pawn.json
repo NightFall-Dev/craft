@@ -1,0 +1,16 @@
+{
+	"user": "NightFall-Dev",
+	"repo": "craft",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib:0.3.7-R2-2-1",
+		"Southclaws-samp-logger",
+		"pawn-lang/YSI-Includes",
+		"NightFall-Dev/item",
+		"NightFall-Dev/inventory",
+		"NightFall-Dev/container",
+		"NightFall-Dev/inventory-dialog",
+		"NightFall-Dev/container-dialog"
+	]
+}
